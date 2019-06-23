@@ -1,6 +1,6 @@
-#####A simple UI for a news app designed in Material Design minimalist style.
+##### A simple UI for a news app designed in Material Design minimalist style.
 
-##Result
+## Result
 
 ### Home Page - News Feed
 ![Home Page](./Home%20page.png)
